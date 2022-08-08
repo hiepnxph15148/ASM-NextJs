@@ -21,7 +21,7 @@ const admin = (props: Props) => {
                                     <div className="flex flex-wrap flex-row">
                                         {/* target widget */}
                                         <div className="flex-shrink max-w-full px-4 w-full sm:w-1/2 lg:w-1/4 mb-6">
-                                            <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg h-full p-6 relative overflow-hidden">
+                                            <div className="bg-white dark:bg-white rounded-lg shadow-lg h-full p-6 relative overflow-hidden">
                                                 <h3 className="text-base font-bold mb-2">Sales</h3>
                                                 <h2 className="text-3xl font-bold mb-4">1,200</h2>
                                                 {/* target */}
@@ -47,7 +47,7 @@ const admin = (props: Props) => {
                                         </div>
                                         {/* target widget */}
                                         <div className="flex-shrink max-w-full px-4 w-full sm:w-1/2 lg:w-1/4 mb-6">
-                                            <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg h-full p-6 relative overflow-hidden">
+                                            <div className="bg-white dark:bg-white rounded-lg shadow-lg h-full p-6 relative overflow-hidden">
                                                 <h3 className="text-base font-bold mb-2">Revenue</h3>
                                                 <h2 className="text-3xl font-bold mb-4">$12,500</h2>
                                                 {/* target */}
@@ -73,7 +73,7 @@ const admin = (props: Props) => {
                                         </div>
                                         {/* target widget */}
                                         <div className="flex-shrink max-w-full px-4 w-full sm:w-1/2 lg:w-1/4 mb-6">
-                                            <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg h-full p-6 relative overflow-hidden">
+                                            <div className="bg-white dark:bg-white rounded-lg shadow-lg h-full p-6 relative overflow-hidden">
                                                 <h3 className="text-base font-bold mb-2">Profit</h3>
                                                 <h2 className="text-3xl font-bold mb-4">$5,200</h2>
                                                 {/* target */}
@@ -99,7 +99,7 @@ const admin = (props: Props) => {
                                         </div>
                                         {/* target widget */}
                                         <div className="flex-shrink max-w-full px-4 w-full sm:w-1/2 lg:w-1/4 mb-6">
-                                            <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg h-full p-6 relative overflow-hidden">
+                                            <div className="bg-white dark:bg-white rounded-lg shadow-lg h-full p-6 relative overflow-hidden">
                                                 <h3 className="text-base font-bold mb-2">Costs</h3>
                                                 <h2 className="text-3xl font-bold mb-4">$7,200</h2>
                                                 {/* target */}
@@ -127,7 +127,7 @@ const admin = (props: Props) => {
 
                                         {/* Net profits */}
                                         <div className="flex-shrink max-w-full px-4 w-full lg:w-1/2 mb-6">
-                                            <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg h-full p-6">
+                                            <div className="bg-white dark:bg-white rounded-lg shadow-lg h-full p-6">
                                                 <div className="flex pb-6">
                                                     <div className="flex flex-col">
                                                         <h3 className="text-base font-bold">Net profits</h3>
@@ -140,7 +140,7 @@ const admin = (props: Props) => {
                                         </div>
                                         {/* Up/Cross Sell */}
                                         <div className="flex-shrink max-w-full px-4 w-full lg:w-1/2 mb-6">
-                                            <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg h-full p-6">
+                                            <div className="bg-white dark:bg-white rounded-lg shadow-lg h-full p-6">
                                                 <div className="flex pb-6">
                                                     <div className="flex flex-col">
                                                         <h3 className="text-base font-bold">Up/Cross Sell</h3>
@@ -170,7 +170,7 @@ const admin = (props: Props) => {
                                         </div>
                                         {/* Cost Breakdown */}
                                         <div className="flex-shrink max-w-full px-4 w-full lg:w-1/2 mb-6">
-                                            <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg h-full p-6">
+                                            <div className="bg-white dark:bg-white rounded-lg shadow-lg h-full p-6">
                                                 <div className="flex pb-6">
                                                     <div className="flex flex-col">
                                                         <h3 className="text-base font-bold">Cost Breakdown</h3>
@@ -205,7 +205,7 @@ const admin = (props: Props) => {
                                         </div>
                                         {/* Incremental Sales */}
                                         <div className="flex-shrink max-w-full px-4 w-full lg:w-1/2 mb-6">
-                                            <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg h-full p-6">
+                                            <div className="bg-white dark:bg-white rounded-lg shadow-lg h-full p-6">
                                                 <div className="flex pb-6">
                                                     <div className="flex flex-col">
                                                         <h3 className="text-base font-bold">Incremental Sales</h3>
