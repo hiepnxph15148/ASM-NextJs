@@ -28,7 +28,7 @@ const Header = (props: Props) => {
     })
 
     const admigement = (id : string) => {
-        if(id == '62da966e2d800bb8983c121d'){
+        if(id == '62f11acf41cb2afb71a8e8e4'){
             return (
                 <ul>
                     <li><Link href={'/admin'}>Admin</Link></li>
