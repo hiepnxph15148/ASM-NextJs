@@ -48,9 +48,9 @@ const Header = (props: Props) => {
                                <button className='hover:text-red-700 ...' onClick={()=>{
                                     setstatus(false)
                                     localStorage.removeItem('user')
-                                }} ><FaPowerOff /></button> <div>{admigement(user.item.user._id)}</div>
+                                }} ><FaPowerOff /></button> <div>{admigement}</div>
                                </div>
-                                <p className='mt-[10px]'>Chào {user.item.user.name}</p>
+                                <p className='mt-[10px]'>Chào </p>
                                 
                             </div>
 

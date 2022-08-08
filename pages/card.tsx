@@ -157,6 +157,7 @@ const card = (props: Props) => {
             <button className="btn m-auto bg-[#d26e4b] p-2 w-[100%] mt-4">Tiến Hành Thanh Toán</button>
             <p className='font-bold pt-4 border-b-2 border-bg-[##ececec] '>Phiếu ữu đãi</p>
             <input type="text" name="coupon_code" className="input-text w-[100%] mt-4" id="coupon_code" value="" placeholder="Mã ưu đãi"></input>
+            <button className='btn bg-[#f9f9f9] w-[100%] p-2 mt-2 text-[#666]'>Áp dụng</button>
           </div>
         </div>
       </main>
